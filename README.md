@@ -3,7 +3,7 @@
 A 2WD WiFi-controlled RC car kit, designed to be simple enough to build in a single college workshop session — acrylic chassis, breadboard wiring, and control from a stock phone app rather than anything custom.
 
 <p align="center">
-  <img src="car.jpg" width="60%" />
+  <img src="car.png" width="60%" />
 </p>
 
 ## Kit / Hardware
